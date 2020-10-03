@@ -1,0 +1,25 @@
+
+bonus:
+	implement show seams
+	
+functions implemented in solution:
+
+    private void calc_Cost_Mat()
+	
+	private void calc_Energy_Mat( )
+	
+    private int c_right(int x, int y)
+	
+    private int c_left(int x, int y)
+	
+    private int c_up(int x, int y)
+	
+    private int find_Min_Cost_InCostMatrix( )
+	
+    private long MinNeighbor_looking(int y, int x)
+	
+	private void T_IndicesMat_calc()
+	
+	private BufferedImage BestSeam_del(BufferedImage currentColorImage)
+	
+	private int[] BestSeam_Trace_Back(int startXIndex)
